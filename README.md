@@ -7,6 +7,7 @@ Bu proje, webcam ve el hareketlerini kullanarak bir arayüz kontrol sistemi olu�
 # Sanal Kahve Makinesi Kontrol Sistemi
 
 Bu proje, el hareketleri kullanarak bir sanal kahve makinesini kontrol etmenizi sağlar. Kullanıcılar, belirli el hareketleriyle kahve türünü, şeker miktarını ve kahve boyutunu seçebilirler.
+
 ![Ana Menü](1.png)
 ## Kahve Türü Seçimi
 
