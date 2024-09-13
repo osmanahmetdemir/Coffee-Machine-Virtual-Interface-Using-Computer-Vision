@@ -9,7 +9,7 @@ Bu proje, webcam ve el hareketlerini kullanarak bir arayüz kontrol sistemi olu�
 # Sanal Kahve Makinesi Kontrol Sistemi
 
 Bu proje, el hareketleri kullanarak bir sanal kahve makinesini kontrol etmenizi sağlar. Kullanıcılar, belirli el hareketleriyle kahve türünü, şeker miktarını ve kahve boyutunu seçebilirler.
-![Ana Menü](Resources/Coffee_Type_Selection.png)
+![Ana Menü](1.png)
 ## Kahve Türü Seçimi
 
 Kullanıcı, arayüz üzerinden farklı kahve türlerini seçebilir. Belirli bir el hareketi ile kahve türü seçilir. Örneğin, tek parmak kaldırmak latte'yi, üç parmak kaldırmak ise soğuk kahveyi temsil edebilir.
